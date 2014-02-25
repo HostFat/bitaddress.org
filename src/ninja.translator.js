@@ -476,7 +476,7 @@ ninja.translator = {
 			"tagline": "Open Source JavaScript Client-Side Bitcoin Wallet Generator",
 			"generatelabelbitcoinaddress": "Generazione Indirizzo Bitcoin...",
 			"generatelabelmovemouse": "MUOVI il tuo mouse per contribuire alla generazione dei numeri casuali...",
-			"generatelabelkeypress": "OR type some random characters into this textbox", //TODO: please translate
+			"generatelabelkeypress": "O scrivi alcuni caratteri casuali in questa casella di testo",
 			"singlewallet": "Singolo portafoglio",
 			"paperwallet": "Paper Wallet",
 			"bulkwallet": "Portafogli multipli",
@@ -583,7 +583,7 @@ ninja.translator = {
 			"detaillabelprivmini": "Chiave privata formato mini (22, 26 or 30 caratteri, inizia per 'S'):",
 			"detaillabelpassphrase": "Inserisci passphrase BIP38",
 			"detaildecrypt": "Decripta BIP38",
-			"detaillabelq1": "How do I make a wallet using dice? What is B6?", //TODO: please translate
+			"detaillabelq1": "Come creo una chiave privata con un dato? Che cos'è B6?",
 			"detaila1": "An important part of creating a Bitcoin wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Bitcoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Bitcoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used." //TODO: please translate
 	    },
 	    
